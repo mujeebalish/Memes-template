@@ -3,3 +3,16 @@
     padding: 0px;
     box-sizing: border-box;
 }
+.row{
+    margin-top: 200px;
+    
+}
+.search-all{
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 100px;
+    padding: 7px;
+    border-radius: 10px;
+    font-weight: bold;
+
+}
